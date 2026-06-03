@@ -20,14 +20,5 @@
   
 </div>
 
-## Stats
-<div>
-
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lbk00&theme=tokyonight" height="170"/>
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lbk6661" height="170"/>
-
-</div>
-
-
 ## Activities
 - LG U+ Ureca SW Academy, Backend Developer (2025.01 ~ 2025.08)
