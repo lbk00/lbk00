@@ -1,8 +1,6 @@
 <div>
 
-  ## Tech Stack
-
-  ### - Back-End
+  ### - Tech Stack
   <img src="https://img.shields.io/badge/IBM%20DB2-054ADA?style=flat-square"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
@@ -20,5 +18,5 @@
   
 </div>
 
-## Activities
+### - Activities
 - LG U+ Ureca SW Academy, Backend Developer (2025.01 ~ 2025.08)
