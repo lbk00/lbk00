@@ -14,11 +14,6 @@
   <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSON%20Web%20Tokens&logoColor=white"/>
   <img src="https://img.shields.io/badge/OAuth%202.0-3A7CA5?style=flat-square&logo=oauth&logoColor=white"/>
 
-  
-  ### - Front-End
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 
 
   ### - Tools
